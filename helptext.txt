@@ -10,7 +10,7 @@
 <i class='fa fa-times orb red-orb'></i>Device is disabled, contents emulated.
 
 <i class='fa fa-square orb blue-orb'></i>New device.
-
+ 
 <i class='fa fa-square orb grey-orb'></i>No device present, position is empty.
 
 **Identification** is the *signature* that uniquely identifies a storage device. The signature
